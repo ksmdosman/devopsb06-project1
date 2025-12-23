@@ -4,4 +4,3 @@ This is first project project for the devopsb06
 
 setup instructions
 1.login to the git repo
-2.Run download_script.sh
